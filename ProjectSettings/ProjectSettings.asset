@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: unity-360_video_tour
+  productName: 360VideoTour_MetaQuest
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -140,7 +140,10 @@ PlayerSettings:
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
   bundleVersion: 0.1.0
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 1354576681994153206, guid: 53adfd4bbeb6db640b7f2f8e4d749138, type: 2}
+  - {fileID: 11400000, guid: 73782313ea4bb8640b07868ee6619440, type: 2}
+  - {fileID: 11400000, guid: 60f11b787f0275543b8ef3864ea18986, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
